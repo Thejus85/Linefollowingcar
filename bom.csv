@@ -1,14 +1,11 @@
-Name,Quantity,Component,Estimated Price (INR),Amazon Link
-"D1, D2",2,Red LED,150,https://www.amazon.in
-"M2, M1",2, Hobby Gearmotor,150,https://www.amazon.in
-P1,1,"5 , 5  Power Supply",150,https://www.amazon.in
-U4,1, 5V Regulator [LM7805],150,https://www.amazon.in
-C1,1,100 nF Capacitor,150,https://www.amazon.in
-C2,1,"1 uF, 16 V Polarized Capacitor",150,https://www.amazon.in
-"Rpot1, Rpot2",2,250 kΩ Potentiometer,150,https://www.amazon.in
-"U1, U2",2, 741 Operational Amplifier,150,https://www.amazon.in
-U3,1, H-bridge Motor Driver,150,https://www.amazon.in
-"Q2, Q1",2, Ambient Light Sensor [Phototransistor],150,https://www.amazon.in
-"R5, R6, R1, R2",4,1 kΩ Resistor,150,https://www.amazon.in
-U8,1, Quad OR gate,150,https://www.amazon.in
-U5,1, Hex Inverter,150,https://www.amazon.in
+Item,Unit Price (USD),Description,Amazon Link
+DC Motor,7,Cylewet Motor Shaft Arduino CYT1037,https://www.amazon.com/dp/B01N9MS3UZ
+Potentiometer,7,Yetaida Potentiometer,https://www.amazon.com/dp/B0DT6JHWWQ
+Red LED,6,OWOFYDR Red LED,https://www.amazon.com/dp/B09B9BYS8V
+Capacitor 100nF,7,ALLECIN 0.1uF Capacitor,https://www.amazon.com/dp/B0DFQ93CPT
+Operational Amplifier,8,LM741CN Op-Amp,https://www.amazon.com/dp/B0D79F8HK5
+H-Bridge Motor Driver,7,L298N Motor Driver,https://www.amazon.com/dp/B0CR6BX5QL
+Ambient Light Sensor,6,Photoresistor / Phototransistor,https://www.amazon.com/dp/B01N7V536K
+Resistor 1kΩ,4,1k Ohm Carbon Resistor,https://www.amazon.com/dp/B0BR6JNM1M
+Quad OR Gate IC,13,74LS32 Quad OR Gate,https://www.amazon.com/dp/B0DCJ2S5DQ
+Hex Schmitt Trigger Inverter,8,SN74HC14 Hex Inverter,https://www.amazon.com/dp/B0983ZXJFZ
