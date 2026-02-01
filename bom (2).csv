@@ -1,0 +1,14 @@
+Name,Quantity,Component,Estimated Price (INR),Amazon Link
+"D1, D2",2,Red LED,150,https://www.amazon.in
+"M2, M1",2, Hobby Gearmotor,150,https://www.amazon.in
+P1,1,"5 , 5  Power Supply",150,https://www.amazon.in
+U4,1, 5V Regulator [LM7805],150,https://www.amazon.in
+C1,1,100 nF Capacitor,150,https://www.amazon.in
+C2,1,"1 uF, 16 V Polarized Capacitor",150,https://www.amazon.in
+"Rpot1, Rpot2",2,250 kΩ Potentiometer,150,https://www.amazon.in
+"U1, U2",2, 741 Operational Amplifier,150,https://www.amazon.in
+U3,1, H-bridge Motor Driver,150,https://www.amazon.in
+"Q2, Q1",2, Ambient Light Sensor [Phototransistor],150,https://www.amazon.in
+"R5, R6, R1, R2",4,1 kΩ Resistor,150,https://www.amazon.in
+U8,1, Quad OR gate,150,https://www.amazon.in
+U5,1, Hex Inverter,150,https://www.amazon.in
